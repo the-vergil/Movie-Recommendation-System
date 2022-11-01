@@ -1,3 +1,4 @@
+![Movie-Recommendation-System](https://github.com/the-vergil/Movie-Recommendation-System/blob/main/bg.jpg)
 # Movie-Recommendation-System
 - It is a machine language project
 - It is a content-based recommendation system (it means that it recommends movies on the basis of tags and features)
